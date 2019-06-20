@@ -1,0 +1,20 @@
+{
+  "name": "node-server-with-express",
+  "version": "1.0.0",
+  "description": "node server with express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "javascript",
+    "back-end"
+  ],
+  "author": "Mauro Bono <mauro@maurobono.com> (https://www.maurobono.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
